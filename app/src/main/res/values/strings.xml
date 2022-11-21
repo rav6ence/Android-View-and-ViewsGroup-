@@ -1,0 +1,23 @@
+<resources>
+    <string name = "app_name">View</string>
+    <string name = "content_text">Apple tahun ini mengeluarkan handphone seri terbarunya,
+    yaitu iPhone 14 Ultra Pro Max S Plus +, pada tanggal 32 Februari kemarin. Peluncuran
+    pertama handphone ini ada di US pada 10 Maret besok. Handphone menggunakan OS terbaru
+    apple yaitu IOS 16 dengan menggunakan chipset A16 bionic</string>
+    <string name = "content_specs_display">LTPO Super Retina XDR OLED, 120Hz, HDR10, 1000 nits</string>
+    <string name = "content_specs_size">6,7 Inches</string>
+    <string name = "content_specs_battery">4324 mAh\n
+    30W Wired Charge\n
+    15W Wireless Magsafe\n
+    7,5W Wireless Qi\n</string>
+    <string name = "stock">Stock Lebih dari 10</string>
+    <string name = "specification">Spesifikasi</string>
+    <string name = "display">Display</string>
+    <string name = "size">Size</string>
+    <string name = "battery">Battery</string>
+    <string name = "seller">Dijual oleh</string>
+    <string name = "my_name">Serafin</string>
+    <string name = "buy">Beli</string>
+    <string name = "dummy_value">$1499</string>
+    <string name = "dummy_photos">6 Photos</string>
+</resources>
